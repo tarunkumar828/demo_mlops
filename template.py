@@ -1,4 +1,4 @@
-import os
+python import os
 
 
 dirs = [
