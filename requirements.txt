@@ -1,3 +1,6 @@
+#local packags install
+-e .
+
 # third party packages
 dvc
 dvc[gdrive]
